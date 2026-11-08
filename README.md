@@ -12,7 +12,7 @@ Two small Django REST Framework projects built while learning DRF.
 Requires Python 3.9+.
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/kingdamie/django-rest-framework-projects
 cd DRF
 
 python3 -m venv env
